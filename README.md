@@ -1,6 +1,6 @@
 # California House Price Predictor
 
-A simple machine learning project that predicts California house prices using a trained model and a Streamlit app.
+A standard machine learning project that predicts California house prices using a trained model and a Streamlit app deployment.
 
 ## Project Overview
 
